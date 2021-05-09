@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  start_date: 2021-05-04
+  end_date: 2021-05-04
+  status: MyString
+  medical_procedure: MyText
+  remedy_description: MyText
+  disease: MyText
+  remedy: MyString
+
+two:
+  start_date: 2021-05-04
+  end_date: 2021-05-04
+  status: MyString
+  medical_procedure: MyText
+  remedy_description: MyText
+  disease: MyText
+  remedy: MyString

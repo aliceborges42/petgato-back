@@ -1,0 +1,2 @@
+class AdoptionHistory < ApplicationRecord
+end
